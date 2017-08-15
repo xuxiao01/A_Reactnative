@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">React_Native</string>
+    <string name="mobileCenterCrashes_whenToSendCrashes">ALWAYS_SEND</string>
+    <string name="mobileCenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
 </resources>
